@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Malachi's Blog
 locale: en_US
 description: Malachi's Blog
 logo: site-logo.png
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  name: Malachi Gray
+  avatar: malachi_gray_self_pic.jpg
+  email: graymd.cfi@gmail.com
+  disqus-shortname: malachigrayblog
   twitter: #username
   facebook: #username
-  github: #username
+  github: #graymd
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
