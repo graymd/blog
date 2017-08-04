@@ -32,6 +32,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-compose (0.5.0)
+      jekyll (>= 3.0.0)
     jekyll-feed (0.7.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
@@ -75,6 +77,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-compose
   jekyll-feed
   jekyll-gist
   jekyll-sitemap
